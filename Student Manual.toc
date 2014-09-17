@@ -21,7 +21,7 @@
 \contentsline {section}{\numberline {3.3}Volume and Surface Area}{48}
 \contentsline {subsection}{\numberline {3.3.1}SAT Worksheet 4B: 6 Questions, 8 Minutes}{49}
 \contentsline {subsection}{\numberline {3.3.2}SAT Worksheet 5B (Basic): 6 Questions, 8 Minutes}{51}
-\contentsline {subsection}{\numberline {3.3.3}SAT Worksheet 6B (Advanced): 6 Questions, 10 Minutes}{55}
+\contentsline {subsection}{\numberline {3.3.3}SAT Worksheet 7B (Advanced): 6 Questions, 10 Minutes}{55}
 \contentsline {chapter}{\numberline {4}Geometry Part III}{57}
 \contentsline {subsection}{\numberline {4.0.1}Worksheet 1C: Warm-Up Problems}{57}
 \contentsline {section}{\numberline {4.1}Geometric Probability}{58}

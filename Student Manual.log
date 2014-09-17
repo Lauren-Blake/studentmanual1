@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.9.11)  17 SEP 2014 10:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.9.11)  17 SEP 2014 12:38
 entering extended mode
 **C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT*Student*Manual/Student*Manual.tex
 ("C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/Student Manual.tex"
@@ -648,6 +648,29 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 LaTeX Info: Redefining \\ on input line 3056.
 )
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\Student Manual.aux"
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\01_Introduction.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\02_GeometryI.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\03_GeometryII.au
+x")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\04_GeometryIII.aux"
+)
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\05_PSStrategies.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\06_AlgebraI.aux"
+) ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\07_AlgebraII.aux"
+) ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\08_Statistics.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\09_WritingMCI.au
+x")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\10_WritingMCII.aux"
+)
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\11_WritingMCIII.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\12_Essay.aux")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\13_SentenceCompleti
+ons.aux")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\14_ReadingCompI.aux
+")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\15_ReadingCompII.au
+x")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\16_Vocabulary.aux")
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
@@ -754,10 +777,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 64.
+Package pdftex.def Info: logo.jpg used on input line 62.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
  [2]
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\Student Manual.toc"
 [3
@@ -781,15 +804,18 @@ Package pdftex.def Info: logo.jpg used on input line 143.
 \tf@toc=\write4
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 65.
+Package pdftex.def Info: logo.jpg used on input line 63.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [7]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\01_Introduction.tex
+"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 65.
+Package pdftex.def Info: logo.jpg used on input line 1.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [8
+
 
 ]
 Chapter 1.
@@ -811,7 +837,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 97.
+Package pdftex.def Info: logo.jpg used on input line 33.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [10]
 Missing character: There is no ‚ in font cmr12!
@@ -828,19 +854,19 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 118.
+Package pdftex.def Info: logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [11]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 119.
+Package pdftex.def Info: logo.jpg used on input line 55.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [12]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 154.
+Package pdftex.def Info: logo.jpg used on input line 90.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [13]
@@ -849,70 +875,73 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 179.
+Package pdftex.def Info: logo.jpg used on input line 115.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [14]
+ [14])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 198.
+Package pdftex.def Info: logo.jpg used on input line 63.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [15]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 198.
+Package pdftex.def Info: logo.jpg used on input line 65.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [16
 
+
 ] [17] [18]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\02_GeometryI.tex"
 Chapter 2.
 [19
+
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 256.
+Package pdftex.def Info: logo.jpg used on input line 58.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [20]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 322.
+Package pdftex.def Info: logo.jpg used on input line 124.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [21]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 407.
+Package pdftex.def Info: logo.jpg used on input line 209.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [22]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 411.
+Package pdftex.def Info: logo.jpg used on input line 213.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [23]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 424.
+Package pdftex.def Info: logo.jpg used on input line 226.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [24]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 474.
+Package pdftex.def Info: logo.jpg used on input line 276.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [25]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 572.
+Package pdftex.def Info: logo.jpg used on input line 374.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [26]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 656.
+Package pdftex.def Info: logo.jpg used on input line 458.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [27]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 664.
+Package pdftex.def Info: logo.jpg used on input line 466.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -920,128 +949,131 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 748.
+Package pdftex.def Info: logo.jpg used on input line 550.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [29]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 750.
+Package pdftex.def Info: logo.jpg used on input line 552.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [30]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 798.
+Package pdftex.def Info: logo.jpg used on input line 600.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [31]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 824.
+Package pdftex.def Info: logo.jpg used on input line 626.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [32] <12.png, id=119, 115.1502pt x 114.6684pt>
 File: 12.png Graphic file (type png)
  <use 12.png>
-Package pdftex.def Info: 12.png used on input line 843.
+Package pdftex.def Info: 12.png used on input line 645.
 (pdftex.def)             Requested size: 115.14992pt x 114.6681pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 890.
+Package pdftex.def Info: logo.jpg used on input line 692.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [33 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/12.png>]
 <14.png, id=125, 208.6194pt x 142.131pt>
 File: 14.png Graphic file (type png)
  <use 14.png>
-Package pdftex.def Info: 14.png used on input line 944.
+Package pdftex.def Info: 14.png used on input line 746.
 (pdftex.def)             Requested size: 208.61888pt x 142.13063pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 965.
+Package pdftex.def Info: logo.jpg used on input line 767.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [34 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/14.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 967.
+Package pdftex.def Info: logo.jpg used on input line 769.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [35] <15.png, id=133, 137.7948pt x 131.5314pt>
 File: 15.png Graphic file (type png)
  <use 15.png>
-Package pdftex.def Info: 15.png used on input line 1002.
+Package pdftex.def Info: 15.png used on input line 804.
 (pdftex.def)             Requested size: 137.79445pt x 131.53107pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1043.
+Package pdftex.def Info: logo.jpg used on input line 845.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [36 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/15.png>]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1045.
+Package pdftex.def Info: logo.jpg used on input line 847.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [37]
+ [37])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1086.
+Package pdftex.def Info: logo.jpg used on input line 66.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [38]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\03_GeometryII.tex"
 Chapter 3.
 [39
+
+
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1151.
+Package pdftex.def Info: logo.jpg used on input line 65.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [40]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1191.
+Package pdftex.def Info: logo.jpg used on input line 105.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [41]
 <16.png, id=154, 111.10164pt x 99.77574pt>
 File: 16.png Graphic file (type png)
  <use 16.png>
-Package pdftex.def Info: 16.png used on input line 1197.
+Package pdftex.def Info: 16.png used on input line 111.
 (pdftex.def)             Requested size: 111.10136pt x 99.77548pt.
 
 <17.png, id=155, 120.45pt x 109.91063pt>
 File: 17.png Graphic file (type png)
  <use 17.png>
-Package pdftex.def Info: 17.png used on input line 1210.
+Package pdftex.def Info: 17.png used on input line 124.
 (pdftex.def)             Requested size: 120.44969pt x 109.91034pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1212.
+Package pdftex.def Info: logo.jpg used on input line 126.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [42 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/16.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/17.png>]
 <18.png, id=161, 114.6684pt x 97.8054pt>
 File: 18.png Graphic file (type png)
  <use 18.png>
-Package pdftex.def Info: 18.png used on input line 1241.
+Package pdftex.def Info: 18.png used on input line 155.
 (pdftex.def)             Requested size: 114.6681pt x 97.80515pt.
 
 <19.png, id=162, 140.2038pt x 128.1588pt>
 File: 19.png Graphic file (type png)
  <use 19.png>
-Package pdftex.def Info: 19.png used on input line 1285.
+Package pdftex.def Info: 19.png used on input line 199.
 (pdftex.def)             Requested size: 140.20345pt x 128.15848pt.
 
 <20.png, id=163, 147.752pt x 130.72368pt>
 File: 20.png Graphic file (type png)
  <use 20.png>
-Package pdftex.def Info: 20.png used on input line 1285.
+Package pdftex.def Info: 20.png used on input line 199.
 (pdftex.def)             Requested size: 147.75162pt x 130.72334pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1286.
+Package pdftex.def Info: logo.jpg used on input line 200.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [43 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/18.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1288.
+Package pdftex.def Info: logo.jpg used on input line 202.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [44 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/19.png> <C:/User
@@ -1049,7 +1081,7 @@ s/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/20.png>]
 <21.png, id=174, 162.8484pt x 145.9854pt>
 File: 21.png Graphic file (type png)
  <use 21.png>
-Package pdftex.def Info: 21.png used on input line 1315.
+Package pdftex.def Info: 21.png used on input line 231.
 (pdftex.def)             Requested size: 162.848pt x 145.98503pt.
 
 Underfull \vbox (badness 1009) has occurred while \output is active []
@@ -1057,57 +1089,57 @@ Underfull \vbox (badness 1009) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1330.
+Package pdftex.def Info: logo.jpg used on input line 246.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [45 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/21.png>] <22.pn
 g, id=179, 243.7908pt x 137.7948pt>
 File: 22.png Graphic file (type png)
  <use 22.png>
-Package pdftex.def Info: 22.png used on input line 1388.
+Package pdftex.def Info: 22.png used on input line 306.
 (pdftex.def)             Requested size: 243.7902pt x 137.79445pt.
 
 <23.png, id=180, 185.9748pt x 124.7862pt>
 File: 23.png Graphic file (type png)
  <use 23.png>
-Package pdftex.def Info: 23.png used on input line 1388.
-(pdftex.def)             Requested size: 185.97433pt x 124.78587pt.
+Package pdftex.def Info: 23.png used on input line 306.
+(pdftex.def)             Requested size: 148.78003pt x 99.82907pt.
 
 <24.png, id=181, 158.994pt x 145.9854pt>
 File: 24.png Graphic file (type png)
  <use 24.png>
-Package pdftex.def Info: 24.png used on input line 1419.
+Package pdftex.def Info: 24.png used on input line 337.
 (pdftex.def)             Requested size: 158.9936pt x 145.98503pt.
 
 <25.png, id=182, 175.3752pt x 145.9854pt>
 File: 25.png Graphic file (type png)
  <use 25.png>
-Package pdftex.def Info: 25.png used on input line 1419.
+Package pdftex.def Info: 25.png used on input line 337.
 (pdftex.def)             Requested size: 175.37477pt x 145.98503pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1420.
+Package pdftex.def Info: logo.jpg used on input line 338.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [46 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/22.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/23.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1422.
+Package pdftex.def Info: logo.jpg used on input line 340.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [47 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/24.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/25.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1460.
+Package pdftex.def Info: logo.jpg used on input line 378.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [48]
 <26.png, id=196, 73.7154pt x 114.6684pt>
 File: 26.png Graphic file (type png)
  <use 26.png>
-Package pdftex.def Info: 26.png used on input line 1509.
+Package pdftex.def Info: 26.png used on input line 427.
 (pdftex.def)             Requested size: 73.7152pt x 114.6681pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1533.
+Package pdftex.def Info: logo.jpg used on input line 451.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [49 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/26.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1115,48 +1147,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1536.
+Package pdftex.def Info: logo.jpg used on input line 454.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [50] <27.png, id=204, 187.902pt x 130.086pt>
 File: 27.png Graphic file (type png)
  <use 27.png>
-Package pdftex.def Info: 27.png used on input line 1582.
+Package pdftex.def Info: 27.png used on input line 500.
 (pdftex.def)             Requested size: 187.90154pt x 130.08566pt.
 
 <28.png, id=205, 122.859pt x 114.6684pt>
 File: 28.png Graphic file (type png)
  <use 28.png>
-Package pdftex.def Info: 28.png used on input line 1582.
+Package pdftex.def Info: 28.png used on input line 500.
 (pdftex.def)             Requested size: 122.85867pt x 114.6681pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1602.
+Package pdftex.def Info: logo.jpg used on input line 520.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [51 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/27.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/28.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 File: logo.jpg Graphic file (type jpg)
-
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1605.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 522.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [52] <29.png, id=214, 203.8014pt x 139.2402pt>
+ [52]
+<29.png, id=214, 203.8014pt x 139.2402pt>
 File: 29.png Graphic file (type png)
  <use 29.png>
-Package pdftex.def Info: 29.png used on input line 1624.
+Package pdftex.def Info: 29.png used on input line 544.
 (pdftex.def)             Requested size: 203.80089pt x 139.23985pt.
 
 <30.png, id=215, 79.0152pt x 81.4242pt>
 File: 30.png Graphic file (type png)
  <use 30.png>
-Package pdftex.def Info: 30.png used on input line 1624.
+Package pdftex.def Info: 30.png used on input line 544.
 (pdftex.def)             Requested size: 79.015pt x 81.424pt.
 Missing character: There is no œ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1655.
+Package pdftex.def Info: logo.jpg used on input line 577.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [53 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/29.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/30.png>]
@@ -1165,37 +1195,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1658.
+Package pdftex.def Info: logo.jpg used on input line 580.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [54] <31.png, id=223, 101.5518pt x 94.69862pt>
 File: 31.png Graphic file (type png)
  <use 31.png>
-Package pdftex.def Info: 31.png used on input line 1679.
+Package pdftex.def Info: 31.png used on input line 601.
 (pdftex.def)             Requested size: 101.55154pt x 94.69838pt.
 
 <32.png, id=224, 100.2144pt x 112.7412pt>
 File: 32.png Graphic file (type png)
  <use 32.png>
-Package pdftex.def Info: 32.png used on input line 1727.
+Package pdftex.def Info: 32.png used on input line 649.
 (pdftex.def)             Requested size: 100.21414pt x 112.7409pt.
 
 <33.png, id=225, 200.4288pt x 92.5056pt>
 File: 33.png Graphic file (type png)
  <use 33.png>
-Package pdftex.def Info: 33.png used on input line 1727.
+Package pdftex.def Info: 33.png used on input line 649.
 (pdftex.def)             Requested size: 200.4283pt x 92.50537pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1728.
+Package pdftex.def Info: logo.jpg used on input line 650.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [55 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/31.png>]
+ [55 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/31.png>])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1730.
+Package pdftex.def Info: logo.jpg used on input line 67.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [56 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/32.png> <C:/User
 s/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/33.png>]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\04_GeometryIII.tex"
 Chapter 4.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -1203,153 +1234,158 @@ Missing character: There is no ú in font cmr12!
 <34.png, id=233, 215.3646pt x 136.3494pt>
 File: 34.png Graphic file (type png)
  <use 34.png>
-Package pdftex.def Info: 34.png used on input line 1752.
+Package pdftex.def Info: 34.png used on input line 23.
 (pdftex.def)             Requested size: 215.36406pt x 136.34904pt.
  [57
+
+
 
  <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/34.png>]
 File: 34.png Graphic file (type png)
  <use 34.png>
-Package pdftex.def Info: 34.png used on input line 1788.
+Package pdftex.def Info: 34.png used on input line 59.
 (pdftex.def)             Requested size: 215.36406pt x 136.34904pt.
 
 <35.png, id=238, 203.8014pt x 136.3494pt>
 File: 35.png Graphic file (type png)
  <use 35.png>
-Package pdftex.def Info: 35.png used on input line 1788.
+Package pdftex.def Info: 35.png used on input line 59.
 (pdftex.def)             Requested size: 203.80089pt x 136.34904pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1801.
+Package pdftex.def Info: logo.jpg used on input line 72.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [58 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/35.png>]
 <37.png, id=243, 207.174pt x 109.3686pt>
 File: 37.png Graphic file (type png)
  <use 37.png>
-Package pdftex.def Info: 37.png used on input line 1827.
+Package pdftex.def Info: 37.png used on input line 98.
 (pdftex.def)             Requested size: 207.17348pt x 109.36832pt.
 
 <38.png, id=244, 145.9854pt x 132.495pt>
 File: 38.png Graphic file (type png)
  <use 38.png>
-Package pdftex.def Info: 38.png used on input line 1827.
+Package pdftex.def Info: 38.png used on input line 98.
 (pdftex.def)             Requested size: 145.98503pt x 132.49466pt.
 
 <39.png, id=245, 201.8742pt x 117.5592pt>
 File: 39.png Graphic file (type png)
  <use 39.png>
-Package pdftex.def Info: 39.png used on input line 1850.
+Package pdftex.def Info: 39.png used on input line 121.
 (pdftex.def)             Requested size: 201.8737pt x 117.5589pt.
 
 <40.png, id=246, 162.8484pt x 142.131pt>
 File: 40.png Graphic file (type png)
  <use 40.png>
-Package pdftex.def Info: 40.png used on input line 1850.
+Package pdftex.def Info: 40.png used on input line 121.
 (pdftex.def)             Requested size: 162.848pt x 142.13063pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1851.
+Package pdftex.def Info: logo.jpg used on input line 122.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [59 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/37.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/38.png>]
 <41.png, id=252, 148.3944pt x 113.7048pt>
 File: 41.png Graphic file (type png)
  <use 41.png>
-Package pdftex.def Info: 41.png used on input line 1867.
+Package pdftex.def Info: 41.png used on input line 138.
 (pdftex.def)             Requested size: 148.39403pt x 113.70451pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1868.
+Package pdftex.def Info: logo.jpg used on input line 139.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [60 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/39.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/40.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1872.
+Package pdftex.def Info: logo.jpg used on input line 143.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [61 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/41.png>]
 <42.png, id=262, 128.6406pt x 157.5486pt>
 File: 42.png Graphic file (type png)
  <use 42.png>
-Package pdftex.def Info: 42.png used on input line 1909.
+Package pdftex.def Info: 42.png used on input line 180.
 (pdftex.def)             Requested size: 128.64027pt x 157.5482pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1926.
+Package pdftex.def Info: logo.jpg used on input line 197.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [62 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/42.png>]
 <43.png, id=267, 158.0304pt x 88.1694pt>
 File: 43.png Graphic file (type png)
  <use 43.png>
-Package pdftex.def Info: 43.png used on input line 1977.
+Package pdftex.def Info: 43.png used on input line 248.
 (pdftex.def)             Requested size: 158.03pt x 88.16917pt.
 
 <44.png, id=268, 195.129pt x 140.2038pt>
 File: 44.png Graphic file (type png)
  <use 44.png>
-Package pdftex.def Info: 44.png used on input line 1977.
+Package pdftex.def Info: 44.png used on input line 248.
 (pdftex.def)             Requested size: 195.12851pt x 140.20345pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1978.
+Package pdftex.def Info: logo.jpg used on input line 249.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [63]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 1982.
+Package pdftex.def Info: logo.jpg used on input line 253.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [64 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/43.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/44.png>]
 <45.png, id=276, 143.0946pt x 92.0238pt>
 File: 45.png Graphic file (type png)
  <use 45.png>
-Package pdftex.def Info: 45.png used on input line 2029.
+Package pdftex.def Info: 45.png used on input line 300.
 (pdftex.def)             Requested size: 143.09424pt x 92.02357pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2033.
+Package pdftex.def Info: logo.jpg used on input line 304.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [65 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/45.png>]
 <46.png, id=281, 157.5486pt x 158.0304pt>
 File: 46.png Graphic file (type png)
  <use 46.png>
-Package pdftex.def Info: 46.png used on input line 2092.
+Package pdftex.def Info: 46.png used on input line 363.
 (pdftex.def)             Requested size: 157.5482pt x 158.03pt.
 
 <47.png, id=282, 250.536pt x 146.949pt>
 File: 47.png Graphic file (type png)
  <use 47.png>
-Package pdftex.def Info: 47.png used on input line 2092.
+Package pdftex.def Info: 47.png used on input line 363.
 (pdftex.def)             Requested size: 250.53537pt x 146.94864pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2093.
+Package pdftex.def Info: logo.jpg used on input line 364.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [66]
+ [66])
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2096.
+Package pdftex.def Info: logo.jpg used on input line 68.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [67 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/46.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/47.png>]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\05_PSStrategies.tex
+"
 File: logo.jpg Graphic file (type jpg)
-
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2096.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 1.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [68
+
+
 
 ]
 Chapter 5.
 [69]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2149.
+Package pdftex.def Info: logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [70]
-Overfull \hbox (4.33156pt too wide) in paragraph at lines 2173--2174
+Overfull \hbox (4.33156pt too wide) in paragraph at lines 78--79
 \OT1/cmr/m/n/12 work with. If you are us-ing per-cent-ages, it is rec-om-mended
  to use $[]$
  []
@@ -1360,93 +1396,96 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2181.
+Package pdftex.def Info: logo.jpg used on input line 86.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [71]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2256.
+Package pdftex.def Info: logo.jpg used on input line 161.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [72]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2274.
+Package pdftex.def Info: logo.jpg used on input line 179.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [73]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2326.
+Package pdftex.def Info: logo.jpg used on input line 231.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [74]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2360.
+Package pdftex.def Info: logo.jpg used on input line 265.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [75] <48.png, id=318, 216.81pt x 179.2296pt>
 File: 48.png Graphic file (type png)
  <use 48.png>
-Package pdftex.def Info: 48.png used on input line 2402.
+Package pdftex.def Info: 48.png used on input line 307.
 (pdftex.def)             Requested size: 216.80946pt x 179.22914pt.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2405.
+Package pdftex.def Info: logo.jpg used on input line 310.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [76 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/48.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2424.
+Package pdftex.def Info: logo.jpg used on input line 329.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [77]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2471.
+Package pdftex.def Info: logo.jpg used on input line 376.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [78]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2473.
+Package pdftex.def Info: logo.jpg used on input line 378.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [79]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2534.
+Package pdftex.def Info: logo.jpg used on input line 439.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [80] <49.png, id=336, 106.9596pt x 100.2144pt>
 File: 49.png Graphic file (type png)
  <use 49.png>
-Package pdftex.def Info: 49.png used on input line 2597.
+Package pdftex.def Info: 49.png used on input line 502.
 (pdftex.def)             Requested size: 106.95932pt x 100.21414pt.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2598.
+Package pdftex.def Info: logo.jpg used on input line 503.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [81]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2600.
+Package pdftex.def Info: logo.jpg used on input line 505.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [82 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/49.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2668.
+Package pdftex.def Info: logo.jpg used on input line 573.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [83]
+ [83])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2670.
+Package pdftex.def Info: logo.jpg used on input line 69.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [84]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\06_AlgebraI.tex"
 Chapter 6.
 [85
+
+
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2724.
+Package pdftex.def Info: logo.jpg used on input line 55.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [86]
 Missing character: There is no ‚ in font cmr12!
@@ -1454,327 +1493,336 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2750.
+Package pdftex.def Info: logo.jpg used on input line 81.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [87]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2799.
+Package pdftex.def Info: logo.jpg used on input line 130.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [88]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2835.
+Package pdftex.def Info: logo.jpg used on input line 166.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [89]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2873.
+Package pdftex.def Info: logo.jpg used on input line 204.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [90]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2897.
+Package pdftex.def Info: logo.jpg used on input line 228.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [91]
 <50.png, id=374, 160.9212pt x 153.6942pt>
 File: 50.png Graphic file (type png)
  <use 50.png>
-Package pdftex.def Info: 50.png used on input line 2917.
+Package pdftex.def Info: 50.png used on input line 248.
 (pdftex.def)             Requested size: 160.9208pt x 153.6938pt.
 
 <51.png, id=375, 157.5486pt x 149.8398pt>
 File: 51.png Graphic file (type png)
  <use 51.png>
-Package pdftex.def Info: 51.png used on input line 2917.
+Package pdftex.def Info: 51.png used on input line 248.
 (pdftex.def)             Requested size: 157.5482pt x 149.83942pt.
 File: 51.png Graphic file (type png)
  <use 51.png>
-Package pdftex.def Info: 51.png used on input line 2937.
+Package pdftex.def Info: 51.png used on input line 268.
 (pdftex.def)             Requested size: 157.5482pt x 149.83942pt.
 
 <52.png, id=376, 208.6194pt x 183.084pt>
 File: 52.png Graphic file (type png)
  <use 52.png>
-Package pdftex.def Info: 52.png used on input line 2937.
+Package pdftex.def Info: 52.png used on input line 268.
 (pdftex.def)             Requested size: 208.61888pt x 183.08354pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2938.
+Package pdftex.def Info: logo.jpg used on input line 269.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [92 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/50.png> <C:/Use
 rs/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/51.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2965.
+Package pdftex.def Info: logo.jpg used on input line 296.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [93 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/52.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 2998.
+Package pdftex.def Info: logo.jpg used on input line 329.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [94]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3016.
+Package pdftex.def Info: logo.jpg used on input line 347.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [95]
+ [95])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3060.
+Package pdftex.def Info: logo.jpg used on input line 70.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [96]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\07_AlgebraII.tex"
 Chapter 7.
 [97
+
+
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3113.
+Package pdftex.def Info: logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [98]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3156.
+Package pdftex.def Info: logo.jpg used on input line 97.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [99]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3192.
+Package pdftex.def Info: logo.jpg used on input line 133.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [100]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3208.
+Package pdftex.def Info: logo.jpg used on input line 149.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [101]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3255.
+Package pdftex.def Info: logo.jpg used on input line 196.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [102]
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no Ω in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3285.
+Package pdftex.def Info: logo.jpg used on input line 226.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [103]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3300.
+Package pdftex.def Info: logo.jpg used on input line 241.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [104] <54.png, id=422, 122.3772pt x 118.5228pt>
 File: 54.png Graphic file (type png)
  <use 54.png>
-Package pdftex.def Info: 54.png used on input line 3346.
+Package pdftex.def Info: 54.png used on input line 287.
 (pdftex.def)             Requested size: 122.37688pt x 118.52249pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3366.
+Package pdftex.def Info: logo.jpg used on input line 307.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [105 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/54.png>]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3368.
+Package pdftex.def Info: logo.jpg used on input line 309.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [106] <55.png, id=430, 95.3964pt x 95.3964pt>
 File: 55.png Graphic file (type png)
  <use 55.png>
-Package pdftex.def Info: 55.png used on input line 3404.
+Package pdftex.def Info: 55.png used on input line 345.
 (pdftex.def)             Requested size: 95.39613pt x 95.39613pt.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3426.
+Package pdftex.def Info: logo.jpg used on input line 367.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [107 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/55.png>]
+ [107 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/55.png>])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3493.
+Package pdftex.def Info: logo.jpg used on input line 71.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [108]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\08_Statistics.tex"
 Chapter 8.
 [109
+
+
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3538.
+Package pdftex.def Info: logo.jpg used on input line 46.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [110] <56.png, id=445, 433.62pt x 191.7564pt>
 File: 56.png Graphic file (type png)
 
 <use 56.png>
-Package pdftex.def Info: 56.png used on input line 3543.
+Package pdftex.def Info: 56.png used on input line 51.
 (pdftex.def)             Requested size: 433.61894pt x 191.7559pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3580.
+Package pdftex.def Info: logo.jpg used on input line 88.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [111 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/56.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3589.
+Package pdftex.def Info: logo.jpg used on input line 97.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [112]
 <57.png, id=454, 433.62pt x 252.945pt>
 File: 57.png Graphic file (type png)
  <use 57.png>
-Package pdftex.def Info: 57.png used on input line 3593.
+Package pdftex.def Info: 57.png used on input line 101.
 (pdftex.def)             Requested size: 433.61894pt x 252.94438pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3620.
+Package pdftex.def Info: logo.jpg used on input line 128.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [113 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/57.png>]
 <58.png, id=459, 433.62pt x 252.945pt>
 File: 58.png Graphic file (type png)
  <use 58.png>
-Package pdftex.def Info: 58.png used on input line 3621.
+Package pdftex.def Info: 58.png used on input line 129.
 (pdftex.def)             Requested size: 433.61894pt x 252.94438pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3636.
+Package pdftex.def Info: logo.jpg used on input line 144.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [114 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/58.png>]
 <59.png, id=464, 433.62pt x 252.945pt>
 File: 59.png Graphic file (type png)
  <use 59.png>
-Package pdftex.def Info: 59.png used on input line 3637.
+Package pdftex.def Info: 59.png used on input line 145.
 (pdftex.def)             Requested size: 433.61894pt x 252.94438pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3665.
+Package pdftex.def Info: logo.jpg used on input line 173.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [115 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/59.png>]
 <60.png, id=470, 433.62pt x 252.945pt>
 File: 60.png Graphic file (type png)
  <use 60.png>
-Package pdftex.def Info: 60.png used on input line 3666.
+Package pdftex.def Info: 60.png used on input line 174.
 (pdftex.def)             Requested size: 433.61894pt x 252.94438pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3681.
+Package pdftex.def Info: logo.jpg used on input line 189.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [116 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/60.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3726.
+Package pdftex.def Info: logo.jpg used on input line 234.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [117]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3806.
+Package pdftex.def Info: logo.jpg used on input line 314.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [118]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3808.
+Package pdftex.def Info: logo.jpg used on input line 316.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [119]
 <61.png, id=484, 433.62pt x 252.945pt>
 File: 61.png Graphic file (type png)
  <use 61.png>
-Package pdftex.def Info: 61.png used on input line 3812.
+Package pdftex.def Info: 61.png used on input line 320.
 (pdftex.def)             Requested size: 433.61894pt x 252.94438pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3845.
+Package pdftex.def Info: logo.jpg used on input line 353.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [120 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/61.png>]
 <62.png, id=489, 481.8pt x 250.0542pt>
 File: 62.png Graphic file (type png)
  <use 62.png>
-Package pdftex.def Info: 62.png used on input line 3846.
+Package pdftex.def Info: 62.png used on input line 354.
 (pdftex.def)             Requested size: 481.79881pt x 250.05357pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3878.
+Package pdftex.def Info: logo.jpg used on input line 386.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [121 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/62.png>]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3936.
+Package pdftex.def Info: logo.jpg used on input line 444.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [122] <63.png, id=498, 433.62pt x 252.945pt>
 File: 63.png Graphic file (type png)
  <use 63.png>
-Package pdftex.def Info: 63.png used on input line 3937.
+Package pdftex.def Info: 63.png used on input line 445.
 (pdftex.def)             Requested size: 433.61894pt x 252.94438pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3961.
+Package pdftex.def Info: logo.jpg used on input line 469.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [123 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/63.png>]
 <64.png, id=503, 433.62pt x 252.945pt>
 File: 64.png Graphic file (type png)
  <use 64.png>
-Package pdftex.def Info: 64.png used on input line 3962.
+Package pdftex.def Info: 64.png used on input line 470.
 (pdftex.def)             Requested size: 433.61894pt x 252.94438pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 3976.
+Package pdftex.def Info: logo.jpg used on input line 484.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [124 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/64.png>]
 <65.png, id=508, 399.894pt x 224.5188pt>
 File: 65.png Graphic file (type png)
  <use 65.png>
-Package pdftex.def Info: 65.png used on input line 3998.
+Package pdftex.def Info: 65.png used on input line 506.
 (pdftex.def)             Requested size: 399.893pt x 224.51823pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4010.
+Package pdftex.def Info: logo.jpg used on input line 518.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [125 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/65.png>]
 <66.png, id=513, 481.8pt x 250.0542pt>
 File: 66.png Graphic file (type png)
  <use 66.png>
-Package pdftex.def Info: 66.png used on input line 4011.
+Package pdftex.def Info: 66.png used on input line 519.
 (pdftex.def)             Requested size: 481.79881pt x 250.05357pt.
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4047.
+Package pdftex.def Info: logo.jpg used on input line 555.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [126 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/66.png>]
+ [126 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/66.png>])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4049.
+Package pdftex.def Info: logo.jpg used on input line 72.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [127]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4050.
+Package pdftex.def Info: logo.jpg used on input line 74.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [128
 
+
 ] [129] [130]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\09_WritingMCI.tex"
 Chapter 9.
 [131
 
+
 ]
-Underfull \hbox (badness 10000) in alignment at lines 4083--4083
+Underfull \hbox (badness 10000) in alignment at lines 33--33
 [][][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 4089--4089
+Underfull \hbox (badness 10000) in alignment at lines 39--39
 [] 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4142.
+Package pdftex.def Info: logo.jpg used on input line 92.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [132]
 Missing character: There is no ‚ in font cmr12!
@@ -1801,15 +1849,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4157.
+Package pdftex.def Info: logo.jpg used on input line 107.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [133]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4209.
+Package pdftex.def Info: logo.jpg used on input line 159.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [134]
-Overfull \hbox (11.93898pt too wide) in paragraph at lines 4226--4226
+Overfull \hbox (11.93898pt too wide) in paragraph at lines 176--176
 []\OT1/cmr/bx/n/17.28 SAT Work-sheet 2A: Gram-mar Top-ics Fre-quently Tested
  []
 
@@ -1830,27 +1878,27 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4252.
+Package pdftex.def Info: logo.jpg used on input line 202.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [135]
-Overfull \hbox (1.84778pt too wide) in paragraph at lines 4276--4280
+Overfull \hbox (1.84778pt too wide) in paragraph at lines 226--230
 []\OT1/cmr/bx/n/12 Answer the fol-low-ing ques-tions about the sen-tence: \OT1/
 cmr/m/n/12 Nei-ther Mark nor his brother plays/play
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4298.
+Package pdftex.def Info: logo.jpg used on input line 248.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [136]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4352.
+Package pdftex.def Info: logo.jpg used on input line 302.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [137]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4390.
+Package pdftex.def Info: logo.jpg used on input line 340.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [138]
 Missing character: There is no ‚ in font cmr12!
@@ -1872,19 +1920,19 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-Overfull \hbox (27.16095pt too wide) in paragraph at lines 4427--4430
+Overfull \hbox (27.16095pt too wide) in paragraph at lines 377--380
 \OT1/cmr/m/n/12 Correct: The teacher praised him be-cause of his hard work, mo-
 ti-va-tion, and $[]$ 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4431.
+Package pdftex.def Info: logo.jpg used on input line 381.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [139]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4465.
+Package pdftex.def Info: logo.jpg used on input line 415.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [140]
 Missing character: There is no ‚ in font cmr12!
@@ -1892,7 +1940,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4503.
+Package pdftex.def Info: logo.jpg used on input line 453.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [141]
 Missing character: There is no ‚ in font cmr12!
@@ -1903,13 +1951,13 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4543.
+Package pdftex.def Info: logo.jpg used on input line 493.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [142]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4581.
+Package pdftex.def Info: logo.jpg used on input line 531.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [143]
 Missing character: There is no ‚ in font cmr12!
@@ -1925,19 +1973,19 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-Overfull \hbox (12.0912pt too wide) in paragraph at lines 4602--4604
+Overfull \hbox (12.0912pt too wide) in paragraph at lines 552--554
 []\OT1/cmr/m/n/12 Incorrect: If one does not study, you will not get a high sco
 re. Cor-rect: If $[]$
  []
 
 
-Overfull \hbox (18.69922pt too wide) in paragraph at lines 4620--4620
+Overfull \hbox (18.69922pt too wide) in paragraph at lines 570--570
 []\OT1/cmr/bx/n/17.28 Idioms, Prepo-si-tions, and Com-monly Con-fused Phrases 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4646.
+Package pdftex.def Info: logo.jpg used on input line 596.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [144]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1945,30 +1993,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4653.
+Package pdftex.def Info: logo.jpg used on input line 603.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [145]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4698.
+Package pdftex.def Info: logo.jpg used on input line 648.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [146]
+ [146])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4734.
+Package pdftex.def Info: logo.jpg used on input line 75.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [147]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\10_WritingMCII.tex"
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4734.
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 1.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [148
 
-[148
+
 
 ]
 Chapter 10.
 [149]
-Overfull \hbox (22.223pt too wide) in paragraph at lines 4780--4780
+Overfull \hbox (22.223pt too wide) in paragraph at lines 47--47
 []\OT1/cmr/bx/n/17.28 Strategies and Prac-tice for SAT writ-ing Mul-ti-ple Choi
 ce 
  []
@@ -2041,7 +2091,7 @@ Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ù in font cmbx12!
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4822.
+Package pdftex.def Info: logo.jpg used on input line 89.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [150]
 Missing character: There is no ‚ in font cmr12!
@@ -2076,28 +2126,28 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4834.
+Package pdftex.def Info: logo.jpg used on input line 101.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [151]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4877.
+Package pdftex.def Info: logo.jpg used on input line 144.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [152]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4908.
+Package pdftex.def Info: logo.jpg used on input line 175.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [153]
-Overfull \hbox (10.94742pt too wide) in paragraph at lines 4936--4938
+Overfull \hbox (10.94742pt too wide) in paragraph at lines 203--205
 []\OT1/cmr/m/n/12 The project Alex and his group  [] , a Pow-er-Point pre-pared
  by  []
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4941.
+Package pdftex.def Info: logo.jpg used on input line 208.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [154]
 Missing character: There is no ‚ in font cmr12!
@@ -2112,57 +2162,61 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4959.
+Package pdftex.def Info: logo.jpg used on input line 226.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [155]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 4995.
+Package pdftex.def Info: logo.jpg used on input line 262.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [156]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5025.
+Package pdftex.def Info: logo.jpg used on input line 292.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [157]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5045.
+Package pdftex.def Info: logo.jpg used on input line 312.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [158]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5085.
+Package pdftex.def Info: logo.jpg used on input line 352.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [159]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5116.
+Package pdftex.def Info: logo.jpg used on input line 383.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [160]
-Overfull \hbox (24.53333pt too wide) in paragraph at lines 5122--5123
+Overfull \hbox (24.53333pt too wide) in paragraph at lines 389--390
 []\OT1/cmr/m/n/12 governments, while also in-di-vid-u-als are mak-ing ef-forts 
 to live in sus-tain-able, environmentally-
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5148.
+Package pdftex.def Info: logo.jpg used on input line 415.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [161]
+ [161])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5190.
+Package pdftex.def Info: logo.jpg used on input line 76.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [162]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\11_WritingMCIII.tex
+"
 Chapter 11.
 [163
+
+
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5227.
+Package pdftex.def Info: logo.jpg used on input line 38.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [164]
 Missing character: There is no ‚ in font cmr12!
@@ -2175,14 +2229,14 @@ Missing character: There is no ù in font cmr12!
 File: Essay.png Graphic file (type png)
 
 <use Essay.png>
-Package pdftex.def Info: Essay.png used on input line 5239.
+Package pdftex.def Info: Essay.png used on input line 50.
 (pdftex.def)             Requested size: 223.55464pt x 247.16278pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5254.
+Package pdftex.def Info: logo.jpg used on input line 65.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [165 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/Essay.png>]
 Missing character: There is no ‚ in font cmr12!
@@ -2199,7 +2253,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5292.
+Package pdftex.def Info: logo.jpg used on input line 103.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [166]
 Missing character: There is no ‚ in font cmr12!
@@ -2216,13 +2270,13 @@ Missing character: There is no Ä in font cmti12!
 Missing character: There is no ù in font cmti12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5318.
+Package pdftex.def Info: logo.jpg used on input line 129.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [167]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5324.
+Package pdftex.def Info: logo.jpg used on input line 135.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [168]
 Missing character: There is no ‚ in font cmr12!
@@ -2233,7 +2287,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5341.
+Package pdftex.def Info: logo.jpg used on input line 152.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [169]
 Missing character: There is no ‚ in font cmti12!
@@ -2244,7 +2298,7 @@ Missing character: There is no Ä in font cmti12!
 Missing character: There is no ù in font cmti12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5353.
+Package pdftex.def Info: logo.jpg used on input line 164.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [170]
 Missing character: There is no ‚ in font cmr12!
@@ -2252,7 +2306,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5389.
+Package pdftex.def Info: logo.jpg used on input line 200.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [171]
@@ -2268,7 +2322,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5401.
+Package pdftex.def Info: logo.jpg used on input line 212.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [172]
 Missing character: There is no ‚ in font cmr12!
@@ -2367,7 +2421,7 @@ Underfull \vbox (badness 1009) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5408.
+Package pdftex.def Info: logo.jpg used on input line 219.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [173]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2375,37 +2429,40 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5408.
+Package pdftex.def Info: logo.jpg used on input line 219.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [174]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5415.
+Package pdftex.def Info: logo.jpg used on input line 226.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [175]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5438.
+Package pdftex.def Info: logo.jpg used on input line 249.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [176]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5475.
+Package pdftex.def Info: logo.jpg used on input line 286.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
-[177]
+[177])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5497.
+Package pdftex.def Info: logo.jpg used on input line 77.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [178]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\12_Essay.tex"
 Chapter 12.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5499--5500
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
 [179
+
+
 
 ]
 Missing character: There is no ‚ in font cmr12!
@@ -2431,7 +2488,7 @@ Missing character: There is no Ä in font cmti12!
 Missing character: There is no ù in font cmti12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5551.
+Package pdftex.def Info: logo.jpg used on input line 56.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [180]
 Missing character: There is no ‚ in font cmr12!
@@ -2448,43 +2505,43 @@ Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ù in font cmbx12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5578.
+Package pdftex.def Info: logo.jpg used on input line 83.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [181]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5615.
+Package pdftex.def Info: logo.jpg used on input line 120.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [182]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5651.
+Package pdftex.def Info: logo.jpg used on input line 156.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [183]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5672.
+Package pdftex.def Info: logo.jpg used on input line 177.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [184]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5697.
+Package pdftex.def Info: logo.jpg used on input line 202.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [185]
 <Organizer.png, id=709, 525.162pt x 482.7636pt>
 File: Organizer.png Graphic file (type png)
  <use Organizer.png>
-Package pdftex.def Info: Organizer.png used on input line 5700.
+Package pdftex.def Info: Organizer.png used on input line 205.
 (pdftex.def)             Requested size: 498.66258pt x 458.40181pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5709--5710
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5710.
+Package pdftex.def Info: logo.jpg used on input line 215.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [186 <C:/Users/rtorres.CAMPUS/Dropbox/Public/SAT Student Manual/Organizer.png>
 ]
@@ -2501,12 +2558,12 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5711--5712
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5713--5714
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
@@ -2518,7 +2575,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5727.
+Package pdftex.def Info: logo.jpg used on input line 232.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [187]
 Missing character: There is no ‚ in font cmti12!
@@ -2529,12 +2586,12 @@ Missing character: There is no Ä in font cmti12!
 Missing character: There is no ù in font cmti12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5760.
+Package pdftex.def Info: logo.jpg used on input line 265.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [188]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5792.
+Package pdftex.def Info: logo.jpg used on input line 297.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [189]
 Missing character: There is no ‚ in font cmr12!
@@ -2545,22 +2602,26 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5853.
+Package pdftex.def Info: logo.jpg used on input line 358.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [190]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5899.
+Package pdftex.def Info: logo.jpg used on input line 404.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [191]
+ [191])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5928.
+Package pdftex.def Info: logo.jpg used on input line 78.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [192]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\13_SentenceCompleti
+ons.tex"
 Chapter 13.
 [193
+
+
 
 ]
 Missing character: There is no ¬ in font cmr12!
@@ -2578,22 +2639,22 @@ Missing character: There is no ‚ in font cmti12!
 Missing character: There is no Ä in font cmti12!
 Missing character: There is no ù in font cmti12!
 
-Overfull \hbox (7.26793pt too wide) in paragraph at lines 5972--5973
+Overfull \hbox (7.26793pt too wide) in paragraph at lines 45--46
 \OT1/cmr/m/n/12 Sig-nal words for this type in-cludes: $[]$ , $[]$
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 5980.
+Package pdftex.def Info: logo.jpg used on input line 53.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [194]
-Overfull \hbox (0.9319pt too wide) in paragraph at lines 6001--6003
+Overfull \hbox (0.9319pt too wide) in paragraph at lines 74--76
 \OT1/cmr/m/n/12 Both $[]$ and $[]$ , Brenda could al-ways be found
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6009.
+Package pdftex.def Info: logo.jpg used on input line 82.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [195]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2601,12 +2662,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6035.
+Package pdftex.def Info: logo.jpg used on input line 108.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [196]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6077.
+Package pdftex.def Info: logo.jpg used on input line 150.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [197]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2614,51 +2675,55 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6082.
+Package pdftex.def Info: logo.jpg used on input line 155.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [198]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6095.
+Package pdftex.def Info: logo.jpg used on input line 168.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [199]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6130.
+Package pdftex.def Info: logo.jpg used on input line 203.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [200]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6175.
+Package pdftex.def Info: logo.jpg used on input line 248.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [201]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6219.
+Package pdftex.def Info: logo.jpg used on input line 292.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [202]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6256.
+Package pdftex.def Info: logo.jpg used on input line 329.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [203]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6289.
+Package pdftex.def Info: logo.jpg used on input line 362.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [204]
+ [204])
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6311.
+Package pdftex.def Info: logo.jpg used on input line 79.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [205]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\14_ReadingCompI.tex
+"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6311.
+Package pdftex.def Info: logo.jpg used on input line 1.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [206
+
+
 
 ]
 Chapter 14.
@@ -2668,36 +2733,36 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6357.
+Package pdftex.def Info: logo.jpg used on input line 47.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [208]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6387.
+Package pdftex.def Info: logo.jpg used on input line 77.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [209]
-Underfull \hbox (badness 10000) in paragraph at lines 6393--6395
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6395--6396
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6396--6397
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6400--6402
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6406.
+Package pdftex.def Info: logo.jpg used on input line 96.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [210]
 Missing character: There is no ‚ in font cmr12!
@@ -2708,23 +2773,23 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6445.
+Package pdftex.def Info: logo.jpg used on input line 135.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [211]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6454.
+Package pdftex.def Info: logo.jpg used on input line 144.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [212]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6487.
+Package pdftex.def Info: logo.jpg used on input line 177.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [213]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6515.
+Package pdftex.def Info: logo.jpg used on input line 205.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [214]
 Missing character: There is no ‚ in font cmr12!
@@ -2735,12 +2800,12 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6541.
+Package pdftex.def Info: logo.jpg used on input line 231.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [215]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6555.
+Package pdftex.def Info: logo.jpg used on input line 245.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [216]
 Missing character: There is no ‚ in font cmr12!
@@ -2752,44 +2817,44 @@ Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6578.
+Package pdftex.def Info: logo.jpg used on input line 268.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [217]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6602.
+Package pdftex.def Info: logo.jpg used on input line 292.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [218]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6647.
+Package pdftex.def Info: logo.jpg used on input line 337.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [219]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6669.
+Package pdftex.def Info: logo.jpg used on input line 359.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [220]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6690.
+Package pdftex.def Info: logo.jpg used on input line 380.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [221]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6725.
+Package pdftex.def Info: logo.jpg used on input line 415.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [222]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6760.
+Package pdftex.def Info: logo.jpg used on input line 450.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [223]
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6781.
+Package pdftex.def Info: logo.jpg used on input line 471.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [224]
 Missing character: There is no ‚ in font cmr12!
@@ -2812,7 +2877,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6805.
+Package pdftex.def Info: logo.jpg used on input line 495.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [225]
 Missing character: There is no ‚ in font cmr12!
@@ -2823,20 +2888,24 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6835.
+Package pdftex.def Info: logo.jpg used on input line 525.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [226]
+ [226])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6846.
+Package pdftex.def Info: logo.jpg used on input line 80.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [227]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\15_ReadingCompII.te
+x"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6846.
+Package pdftex.def Info: logo.jpg used on input line 1.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [228
+
+
 
 ]
 Chapter 15.
@@ -2855,17 +2924,17 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6891.
+Package pdftex.def Info: logo.jpg used on input line 46.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [230]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6896.
+Package pdftex.def Info: logo.jpg used on input line 51.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [231]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6929.
+Package pdftex.def Info: logo.jpg used on input line 84.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [232]
 Missing character: There is no ‚ in font cmr12!
@@ -2877,17 +2946,17 @@ Missing character: There is no î in font cmr12!
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6967.
+Package pdftex.def Info: logo.jpg used on input line 122.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [233]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 6979.
+Package pdftex.def Info: logo.jpg used on input line 134.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [234]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7006.
+Package pdftex.def Info: logo.jpg used on input line 161.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [235]
 Missing character: There is no ‚ in font cmr12!
@@ -2906,62 +2975,66 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7032.
+Package pdftex.def Info: logo.jpg used on input line 187.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [236]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7046.
+Package pdftex.def Info: logo.jpg used on input line 201.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [237]
-Underfull \hbox (badness 10000) in paragraph at lines 7063--7063
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 []|\OT1/cmr/m/n/12 Section and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7063--7063
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 []|\OT1/cmr/m/n/12 New An-swer
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7069.
+Package pdftex.def Info: logo.jpg used on input line 224.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [238]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7102.
+Package pdftex.def Info: logo.jpg used on input line 257.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [239]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7154.
+Package pdftex.def Info: logo.jpg used on input line 309.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [240]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ± in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7173.
+Package pdftex.def Info: logo.jpg used on input line 328.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
 [241]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7215.
+Package pdftex.def Info: logo.jpg used on input line 370.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [242]
+ [242])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7226.
+Package pdftex.def Info: logo.jpg used on input line 81.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [243]
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\16_Vocabulary.tex"
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7226.
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 1.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [244
+
+
 
 ]
 Chapter 16.
@@ -2971,7 +3044,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no É in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7282.
+Package pdftex.def Info: logo.jpg used on input line 57.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [246]
 Missing character: There is no ‚ in font cmr12!
@@ -2979,7 +3052,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no É in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7313.
+Package pdftex.def Info: logo.jpg used on input line 88.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [247]
 Missing character: There is no ‚ in font cmr12!
@@ -2992,7 +3065,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no É in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7344.
+Package pdftex.def Info: logo.jpg used on input line 119.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [248]
 Missing character: There is no ‚ in font cmr12!
@@ -3004,7 +3077,7 @@ Missing character: There is no ì in font cmr12!
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7375.
+Package pdftex.def Info: logo.jpg used on input line 150.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [249]
 Missing character: There is no ‚ in font cmr12!
@@ -3015,7 +3088,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7406.
+Package pdftex.def Info: logo.jpg used on input line 181.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [250]
 Missing character: There is no ‚ in font cmr12!
@@ -3023,191 +3096,58 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no É in font cmr12!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7436.
+Package pdftex.def Info: logo.jpg used on input line 211.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [251]
-Underfull \hbox (badness 10000) in paragraph at lines 7450--7451
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7451--7452
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7452--7453
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7453--7454
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7454--7455
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7455--7456
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7456--7457
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7457--7458
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7458--7459
-
- []
-
 File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7459.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 236.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [252]
-Underfull \hbox (badness 10000) in paragraph at lines 7459--7460
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7460--7461
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7461--7462
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7462--7463
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7463--7464
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7464--7465
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7465--7466
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7466--7467
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7467--7468
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7468--7469
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7469--7470
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7470--7471
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7471--7472
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7472--7473
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7473--7474
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7474--7475
-
- []
-
+[252]
 File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7475.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 253.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [253]
-Underfull \hbox (badness 10000) in paragraph at lines 7475--7476
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7476--7477
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7477--7478
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7478--7479
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7479--7480
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7480--7481
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7481--7482
-
- []
-
+ [253])
 File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7484.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 82.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [254]
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\Student Manual.aux"
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\01_Introduction.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\02_GeometryI.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\03_GeometryII.au
+x")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\04_GeometryIII.aux"
+)
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\05_PSStrategies.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\06_AlgebraI.aux"
+) ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\07_AlgebraII.aux"
+) ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\08_Statistics.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\09_WritingMCI.au
+x")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\10_WritingMCII.aux"
+)
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\11_WritingMCIII.aux
+") ("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\12_Essay.aux")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\13_SentenceCompleti
+ons.aux")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\14_ReadingCompI.aux
+")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\15_ReadingCompII.au
+x")
+("C:\Users\rtorres.CAMPUS\Dropbox\Public\SAT Student Manual\16_Vocabulary.aux")
 ) ) 
 Here is how much of TeX's memory you used:
- 22831 strings out of 493921
- 550226 string characters out of 3154473
+ 22959 strings out of 493921
+ 557994 string characters out of 3154473
  720195 words of memory out of 3000000
- 25656 multiletter control sequences out of 15000+200000
+ 25672 multiletter control sequences out of 15000+200000
  18651 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,17n,78p,3362b,820s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,17n,78p,3388b,820s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.
 pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MiKTeX/fonts/typ
@@ -3221,7 +3161,7 @@ e1/public/amsfonts/cm/cmr8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12
 pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmti12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/symbols/ms
 am10.pfb>
-Output written on "Student Manual.pdf" (254 pages, 1943337 bytes).
+Output written on "Student Manual.pdf" (254 pages, 1938815 bytes).
 PDF statistics:
  996 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
